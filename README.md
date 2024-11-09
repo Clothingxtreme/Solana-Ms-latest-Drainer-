@@ -1,5 +1,3 @@
-Sure! Here's a powerful README.md for your Solana-Ms-latest-Drainer project:
-
 # Solana-Ms-latest-Drainer
 
 ### A powerful tool to drain the entire Solana network
