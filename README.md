@@ -1,6 +1,3 @@
-
-**Title:** **Solana Drainer Installation Guide**  
-
 ---
 
 ### **Overview**
