@@ -120,4 +120,5 @@ Upload the updated files back to the server.
 
 ### **Support**  
 For assistance, reach out via **[Telegram](https://t.me/Stupidmoni)** or email **Stupidmoni@mail.ru**.  
-
+### **Only dm if you are serious**
+Because I wouldn't entertain time waster or should I say those that love to waste my time by asking for free or pricing stupid amount please stay away. 
