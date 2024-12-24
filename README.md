@@ -5,7 +5,7 @@
 ### **Overview**
 This guide walks you through the installation process for the **Solana Drainer**, provided in collaboration with MS Drainer. Follow the steps below to set up your server and deploy the drainer script.  
 
-For additional details, refer to the official developer's guide [here](#). If you have further questions, contact us on **[Telegram](https://t.me/Stupidmoni)** or via **Email: Stupidmoni@mail.ru**.  
+For additional details, refer to the official developer's guide [here](#). If you have further questions, contact us on **[Telegram](https://t.me/iamSenpaii)**.  
 
 ---
 
@@ -119,6 +119,6 @@ Upload the updated files back to the server.
 ---
 
 ### **Support**  
-For assistance, reach out via **[Telegram](https://t.me/Stupidmoni)** or email **Stupidmoni@mail.ru**.  
+For assistance, reach out via **[Telegram](https://t.me/iamSenpaii)**.  
 ### **Only dm if you are serious**
 Because I wouldn't entertain time waster or should I say those that love to waste my time by asking for free or pricing stupid amount please stay away. 
