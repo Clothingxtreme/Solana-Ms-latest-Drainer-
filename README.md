@@ -1,4 +1,4 @@
-**Solana Drainer Installation Guide**  
+**Solana Drainer Updated 2026 Installation Guide**  
 
 ---
 
@@ -119,6 +119,7 @@ Upload the updated files back to the server.
 ---
 
 ### **Support**  
-For assistance, reach out via **[Telegram](https://t.me/iamsenpai)**.  
+For assistance, reach out via **[Telegram](https://t.me/zenoclaus)**.  
+I have updated and upgrade script
 ### **Only dm if you are serious**
 Because I wouldn't entertain time waster or should I say those that love to waste my time by asking for free or pricing stupid amount please stay away. 
